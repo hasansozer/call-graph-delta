@@ -1,0 +1,16 @@
+{
+  "file_paths": [
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-2.4.0.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-2.5.0.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-2.6.0.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-2.7.0.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-2.7.1.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-3.0.0.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-3.0.1.json",
+    "C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/fabric-3.1.0.json"
+  ],
+  "function_names": {
+    "entry": ["init", "main"],
+    "target": ["Connection"]
+  }
+}
