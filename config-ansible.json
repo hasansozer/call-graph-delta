@@ -1,0 +1,18 @@
+{
+  "file_paths": [
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.0.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.1.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.2.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.3.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.4.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.5.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.6.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.7.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.8.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/ansible-2.9.json"
+  ],
+  "function_names": {
+    "entry": ["init", "main"],
+    "target": ["load"]
+  }
+}

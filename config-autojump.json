@@ -1,0 +1,18 @@
+{
+  "file_paths": [
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.3.1.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.3.2.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.3.3.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.3.4.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.3.5.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.4.0.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.4.1.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.5.0.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.5.1.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/autojump-v22.5.3.json"
+  ],
+  "function_names": {
+    "entry": ["init", "main"],
+    "target": ["Connection"]
+  }
+}
