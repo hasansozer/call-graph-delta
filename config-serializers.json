@@ -1,0 +1,18 @@
+{
+  "file_paths": [
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-1.5.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-1.6.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-1.7.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-1.8.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-1.9.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-2.0.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-2.1.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-2.2.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-3.0.json",
+	"C:/Users/hasans/PycharmProjects/pygraphdelta/callgraphs/serializers-3.1.json"
+  ],
+  "function_names": {
+    "entry": ["init", "main"],
+    "target": ["load"]
+  }
+}
